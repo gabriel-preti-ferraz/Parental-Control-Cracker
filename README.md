@@ -81,7 +81,7 @@ We would like to thank the following people who contributed to this project:
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
 This project is licensed under MIT. See the file [LICENSE](LICENSE.md) for more details.
 

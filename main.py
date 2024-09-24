@@ -30,7 +30,7 @@ def combinations():
 def send_pin(code):
     send_key('KEY_UP')
     send_key('KEY_ENTER')
-    print(f'Testando: {code}')
+    print(f'Testing: {code}')
     for digit in code:
         if digit == None:
             continue
@@ -44,4 +44,4 @@ if __name__ == "__main__":
         try:
             send_pin(code)
         except Exception as e:
-            print(f"Erro enviando o pin {code}: {e}")
+            print(f"An error was found sendind the pin {code}: {e}")

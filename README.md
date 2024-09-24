@@ -83,6 +83,6 @@ We would like to thank the following people who contributed to this project:
 
 ## 📝 License
 
-This project is licensed under MIT. See the file [LICENSE](LICENSE.md) for more details.
+This project is licensed under MIT. See the file [LICENSE](LICENSE) for more details.
 
 [⬆ Back to top](#parental-control-cracker)<br>
